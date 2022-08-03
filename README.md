@@ -1,4 +1,4 @@
-# SPA-Universe
+# GitFav
 
 # 💻 Sobre o desafio
 
