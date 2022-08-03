@@ -1,4 +1,4 @@
-# GitFav
+# GitFav/em desenvolvimento...
 
 # 💻 Sobre o desafio
 
